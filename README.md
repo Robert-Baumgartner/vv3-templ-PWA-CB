@@ -1,4 +1,4 @@
-# vv3-template-PWA-CB
+# vv3-templ-PWA-CB
 
 This template should help get you started developing a PWA with Vue 3 in Vite. It uses Composition API, Bootstrap and Font Awesome.
 
