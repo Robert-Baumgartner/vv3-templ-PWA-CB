@@ -12,6 +12,8 @@ npx degit robert-baumgartner/vv3-template-PWA-CB your-project
 
 Important: For the PWA to work you need to build it and use the preview script! See package.json!
 
+07.05.2022: Fixed ESLint top level await warning
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
